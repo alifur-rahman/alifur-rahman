@@ -1,4 +1,4 @@
-# Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> 
+# Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <a href="https://www.linkedin.com/in/alifur-rahman-l/"><img src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/cover2.jpg" align="right" height="300"></a>
 
@@ -12,17 +12,38 @@ Feel free to explore my GitHub repositories to get a glimpse of my work and appr
 <br><br><br>
 <a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/039ef31ac4344d6d8af4db2c5de2d9b4.png?r=zyg" align="right" width="300" alt="Alifur Rahman's Dev Card"/></a>
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifur-rahman&theme=halloween&hide_border=true)
 
-
-
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/alifur-rahman/views.svg)
 <br><br><br><br><br><br>
+
+# Tech Stack
+
+### Front End
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
+
+<img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
+
+### Back End
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
+
+### Deployment Platforms
+
+<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
+
 # Education
 
 <table>
@@ -49,6 +70,7 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
  </table>
 
 # Experience
+
 - [Jio Platforms Limited](https://www.jio.com/)
   - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
   - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
@@ -81,20 +103,6 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
 - [Ideation 2020 Website](http://ideation.techxter.in/)
 - [Mathematical library in python](https://github.com/snehil03july/mathpy)
-
-# Tech Stack
-
-### Front End
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
-
-### Back End
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
-
-### Deployment Platforms
-
-<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
 
 # Volunteer Experience
 
@@ -136,6 +144,7 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
  </table>
 
 # Achievements
+
 - Best Project to solve a big AEC Problem
   - Best Project to solve a big AEC Problem
   - Project Link: https://learncarbon.me/
@@ -150,8 +159,9 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 - Runnerup in Tug of War
   - Gaurav Puraskar
   - Yogya Puraskar for Keyboard and Guitar
-  
+
 # Languages
+
 - <strong>Full professional proficiency:</strong> English, Hindi, Marathi
 - <strong>Native or bilingual proficiency:</strong> Kannada
 - <strong>Elementary proficiency:</strong> Tamil, Gujarati
