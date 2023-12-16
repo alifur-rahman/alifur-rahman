@@ -95,16 +95,11 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/anirudh-srinath-belwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://anirudhbelwadi.com/assets/documents/anirudh_srinath_belwadi_cv.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/AnirudhBelwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chakravyuh/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/music.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>&nbsp;&nbsp;
-<a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
+<a href="https://www.linkedin.com/in/alifur-rahman-l/"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/LinkedIN.svg"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/LinkedIN.svg"></a>&nbsp;&nbsp;
+
+
+
 
 <br><br>
 <a target="_blank" href="https://alifur-rahman.netlify.app/">Take a moment to explore my portfolio!</a>
