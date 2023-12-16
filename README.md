@@ -104,4 +104,8 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 <a href="mailto://alifurrahman1999@gmail.com"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Gmail.svg"></a>&nbsp;&nbsp;
 
 <br><br>
-<a target="_blank" href="https://alifur-rahman.netlify.app/">Take a moment to explore my portfolio!</a>
+[![Explore My Portfolio](https://img.shields.io/badge/Explore-My%20Portfolio-green?style=for-the-badge)](https://alifur-rahman.netlify.app/)
+
+
+
+
