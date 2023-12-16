@@ -96,10 +96,10 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 # Quick Links
 
 <a href="https://www.linkedin.com/in/alifur-rahman-l/"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/LinkedIN.svg"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/LinkedIN.svg"></a>&nbsp;&nbsp;
-
-
-
+<a href="https://join.skype.com/invite/fMk2yEHzhMIt"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Skype.svg"></a>&nbsp;&nbsp;
+<a href="https://wa.me/8801733061986?text=Hello!"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/WhatsApp.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/alifur_rahman_t"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/alifurcoder/"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Facebook.svg"></a>&nbsp;&nbsp;
 
 <br><br>
 <a target="_blank" href="https://alifur-rahman.netlify.app/">Take a moment to explore my portfolio!</a>
