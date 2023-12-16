@@ -67,100 +67,31 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 
 # Experience
 
-- [Jio Platforms Limited](https://www.jio.com/)
-  - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
-  - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
-- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Intern</b> - <b>July 2021 - Present</b>
-- [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
-- [HaleAI](http://13.232.87.90/) - <b>Full Stack Development Intern</b> - <b>Mar 2020 - Jun 2021 </b>
-- [EntreSpace](https://entrespace.in/) - <b>Freelance Web Developer</b> - <b>Feb 2021 - Mar 2021</b>
+- [IT Corner Limited](https://itcorneronline.com/) - <b>Jr. Software Developer</b> - <b>Jan 2022 - 2023</b>
+- [AMINIT LIMITED ](http://aminitltd.com/) - <b>Full-stack Web Developer</b> - <b>Jan 2021 - Sep 2021</b>
+- [Mimosa IT](https://mimosait.com/) - <b>Web Developer with WordPress </b> - <b>Jan 2020 - Dec 2020</b>
+
+- [Coder IT Solution](https://coderitsolution.com/)
+
+  - <b>Freelenace Website Designer & Developer</b> - <b>Jun 2019 - Dec 2020</b>
+  - <b>Full Stack Development Intern</b> - <b>Jun 2018 - Dec 2019 </b>
 
 # Positions of Responsibility
 
-- [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/)
-  - <b>Campus Lead</b> - <b>July 2021 - Present</b>
-  - <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
-- [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
-- [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
-- [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
-- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology)
-  - <b>Head</b> - <b>Jun 2021 - Jun 2022</b>
-  - <b>Point Of Contact</b> - <b>Jun 2020 - Jun 2021</b>
-  - <b>Member</b> - <b>Jun 2018 - Jun 2022</b>
-- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
-- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
+- [MakerStack](https://makersstack.com)
 
-# Projects
+  - <b>Campus Lead</b> - <b>Jun 2022 - Present</b>
+  - <b>Administrator</b> - <b>Jun 2022 - Present</b>
+  - <b>MERN Developer</b> - <b>Jun 2022 - Present</b>
 
-- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
-- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
-- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Mathematical library in python](https://github.com/snehil03july/mathpy)
-
-# Volunteer Experience
-
-- [Flood Relief](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) Drive for Goonj NGO
-- Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
-- Event head - Tug of War - Cognition 2019 (the annual technical and [sports](https://www.instagram.com/sportsteam_siesgst/) fest of SIES Graduate School of Technology)
-
-# Licences and Certifications
-
-- [Bugsquash - a 72 hour Online Project Building Competition](https://drive.google.com/file/d/1Fr8_9unEv_wTL-XKSomTqU1P2wVBykRU/view?usp=sharing)
-- [MetaCTF CyberGames 2020 Participation](https://drive.google.com/file/d/1Uijh4inUfXJo93oLlmL70uoEJ_jPbsTF/view)
-- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
-- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
-- [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
-- [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
-- [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
-- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
-
-# Skills
-
-- Full Stack Web Development
-- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
-- Photography
-- Operation Systems: Windows, Ubuntu, Kali
-- Softwares
-<table>
-  <tr>
-    <th>Imaging</th>
-    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"> <img src="https://img.shields.io/badge/Snapseed-0B7D40?style=for-the-badge&logo=google&logoColor=ACF756"></td>
-  </tr>
-  <tr>
-    <th>Video</th>
-    <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
-  </tr>
-  <tr>
-    <th>Graphics and Prototyping</th>
-    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
-  </tr>
- </table>
-
-# Achievements
-
-- Best Project to solve a big AEC Problem
-  - Best Project to solve a big AEC Problem
-  - Project Link: https://learncarbon.me/
-- COVID-19 NATIONAL BIO INFORMATICS ONLINE HACKATHON FOR FULL STACKERS
-  - Anna University and IIT Bombay
-  - Finished in Top 25 out of 1000 teams from all over India
-- SIES Graduate School of Technology
-  - GSTian of the Year 2021-22
-  - Most Enterprising Student in First Year
-  - Runnerup in Intercollegiate Quiz - MATRIX
-  - Runnerup in Tug of War
-- Runnerup in Tug of War
-  - Gaurav Puraskar
-  - Yogya Puraskar for Keyboard and Guitar
+- [MBGSystem Solutions](https://mbgsystem.com/)
+  - <b>PHP, Laravel Developer</b> - <b>Mar 2020 - Present</b>
 
 # Languages
 
-- <strong>Full professional proficiency:</strong> English, Hindi, Marathi
-- <strong>Native or bilingual proficiency:</strong> Kannada
-- <strong>Elementary proficiency:</strong> Tamil, Gujarati
+- <strong>Full professional proficiency:</strong> English, Bangla
+- <strong>Native or bilingual proficiency:</strong> Hindi, Urdu
+- <strong>Elementary proficiency:</strong> Nepali, Spanish
 
 # Quick Links
 
