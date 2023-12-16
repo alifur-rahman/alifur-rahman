@@ -23,7 +23,7 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 ![ViewCount](https://views.whatilearened.today/views/github/alifur-rahman/views.svg)
 <br><br><br><br><br><br>
 
-# Tech Stack
+# Tech Stack ⚙️
 
 ### Front End
 
