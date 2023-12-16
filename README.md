@@ -100,6 +100,8 @@ Last Updated: Wednesday, December 13th, 2023, 1:47:33 AM
 <a href="https://wa.me/8801733061986?text=Hello!"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/WhatsApp.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/alifur_rahman_t"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/alifurcoder/"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/alifur_rahmam"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Instagram.svg"></a>&nbsp;&nbsp;
+<a href="mailto://alifurrahman1999@gmail.com"><img height="30" src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/social/Gmail.svg"></a>&nbsp;&nbsp;
 
 <br><br>
 <a target="_blank" href="https://alifur-rahman.netlify.app/">Take a moment to explore my portfolio!</a>
