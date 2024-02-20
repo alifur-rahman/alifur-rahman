@@ -10,7 +10,8 @@ I'm passionate about creating robust, efficient, and user-friendly web applicati
 
 Feel free to explore my GitHub repositories to get a glimpse of my work and approach to web development. I'm excited to extend my services to the freelance market and bring my wealth of experience to new and exciting projects.
 <br><br><br>
-<a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/039ef31ac4344d6d8af4db2c5de2d9b4.png?r=zyg" align="right" width="300" alt="Alifur Rahman's Dev Card"/></a>
+
+<a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=default&r=jim" align="right" width="365" alt="Alifur Rahman's Dev Card"/></a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifur-rahman&theme=halloween&hide_border=true)
 
