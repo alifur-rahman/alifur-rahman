@@ -1,7 +1,7 @@
 # Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <!-- <a href="https://www.linkedin.com/in/alifur-rahman-l/"><img src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/cover2.jpg" align="right" height="300"></a> -->
-<a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=wide&r=jim" align="right" width="550" alt="Alifur Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=wide&r=jim" align="right" width="510" alt="Alifur Rahman's Dev Card"/></a>
 
 I'm Alifur Rahman, a seasoned full-stack web developer with over 5 years of experience in both front-end and back-end development. My expertise spans the entire software development life cycle, having collaborated with businesses of varying scales, from small ventures to large corporations.
 
