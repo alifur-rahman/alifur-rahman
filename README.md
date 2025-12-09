@@ -14,7 +14,7 @@ Feel free to explore my GitHub repositories to get a glimpse of my work and appr
 
 <!-- <a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=default&r=jim" align="right" width="320" alt="Alifur Rahman's Dev Card"/></a> -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifur-rahman&theme=halloween&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifur-rahman&theme=dark&hide_border=true&border_radius=5&card_height=150)](https://git.io/streak-stats)
 
 <!--RECENT_ACTIVITY:last_update-->
 
