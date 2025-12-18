@@ -2,14 +2,7 @@
 
 <!-- <a href="https://www.linkedin.com/in/alifur-rahman-l/"><img src="https://github.com/alifur-rahman/alifur-rahman/blob/main/img/cover2.jpg" align="right" height="300"></a> -->
 <a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=wide&r=jim" align="right" width="510" alt="Alifur Rahman's Dev Card"/></a>
-
-I'm Alifur Rahman, a seasoned full-stack web developer with over 5 years of experience in both front-end and back-end development. My expertise spans the entire software development life cycle, having collaborated with businesses of varying scales, from small ventures to large corporations.
-
-In my journey through evolving technologies, I've accumulated a diverse skill set, encompassing a wide array of development tools and frameworks. This includes backend and frontend technologies, database management, e-commerce platforms, and content management systems.
-
-I'm passionate about creating robust, efficient, and user-friendly web applications. My GitHub profile showcases a portfolio of projects that highlight my skills and expertise in crafting innovative solutions for clients and businesses.
-
-Feel free to explore my GitHub repositories to get a glimpse of my work and approach to web development. I'm excited to extend my services to the freelance market and bring my wealth of experience to new and exciting projects.
+I'm Alifur Rahman, a full-stack developer with a strong focus on building the reliable backend foundations that power great applications. My expertise spans from designing secure, scalable server-side architectures to crafting intuitive user interfaces, ensuring the entire system works cohesively. I thrive on solving complex, end-to-end problems through thoughtful system design, clean code, and a principles-first approach. This space reflects my continuous journey in building robust, full-spectrum solutions and exploring the craft of lasting software.
 <br><br>
 
 <!-- <a href="https://app.daily.dev/alifurrahman"><img src="https://api.daily.dev/devcards/v2/jAHMR0lIqZNWknf8YWdcp.png?type=default&r=jim" align="right" width="320" alt="Alifur Rahman's Dev Card"/></a> -->
