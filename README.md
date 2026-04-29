@@ -67,10 +67,10 @@ I'm Alifur Rahman, a full-stack developer with a strong focus on building the re
 
 # Experience
 
-- [KodeX Srl (Remote)](#) - <b>Full Stack Developer</b> - <b>Apr 2024 – Nov 2025</b>
+- [KodeX Srl (Remote)](#) - <b>Full Stack Developer</b> - <b>Apr 2024 – Present</b>
 - [IT Corner Limited](https://itcorneronline.com/) - <b>Jr. Software Developer</b> - <b>Feb 2023 – Mar 2024</b>
-- [AMINIT LIMITED ](http://aminitltd.com/) - <b>Web Developer</b> - <b>Apr 2022 – Jan 2023</b>
-- [Mimosa IT](https://mimosait.com/) - <b>Web Developer with WordPress </b> - <b>Mar 2021 – Mar 2022</b>
+- [AMINIT LIMITED ](http://aminitltd.com/) - <b>Web Developer</b> - <b>May 2022 – Jan 2023</b>
+- [Mimosa IT](https://mimosait.com/) - <b>Web Developer with WordPress </b> - <b>Mar 2021 – Apr 2022</b>
 
 - [Coder IT Solution (Intern) ](https://coderitsolution.com/)
 
